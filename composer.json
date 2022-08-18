@@ -1,5 +1,7 @@
 {
     "name": "sivek/energyglobalapp",
+    "description": "this is a energy global test case library",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "Energyglobalapp\\": "src/"
