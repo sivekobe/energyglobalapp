@@ -1,0 +1,12 @@
+{
+    "name": "sivek/energyglobalapp",
+    "autoload": {
+        "psr-4": {
+            "Energyglobalapp\\": "src/"
+        }
+    },
+    "require": {
+        "ext-dom": "20031129",
+        "ext-xml": "*"
+    }
+}

@@ -1,0 +1,15 @@
+body{
+	background:#eee;
+}
+#frm{
+	border-top: #a2d0c8 2px solid;
+    background: #b1e2da;
+	padding: 10px;
+}
+#btn{
+	background-color: #82a9a2;
+    padding: 10px 40px;
+    color: #FFF;
+    border: #739690 1px solid;
+	border-radius: 4px;
+}
