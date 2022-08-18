@@ -2,6 +2,7 @@
     "name": "sivek/energyglobalapp",
     "description": "this is a energy global test case library",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Energyglobalapp\\": "src/"
